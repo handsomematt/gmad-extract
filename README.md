@@ -6,7 +6,7 @@ that tend to have the file extension `.GMA`.
 The main objective of this application is to provide a light, fast, cross platform cli tool
 to extract these files.
 
-Usage: `gmaextract <in.gma> [outdir]` (*`outdir` is optional and defaults to `in`*)
+Usage: `gmaextract in.gma [outdir]`
 
 ## Prerequisites
 

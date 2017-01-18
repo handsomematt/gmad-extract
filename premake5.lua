@@ -25,6 +25,10 @@ solution "gmaextract"
                 linkoptions { "-pthread" }
         end
 
-		files { "src/main.cpp" }
+		files {
+			"src/main.cpp",
+			"src/AddonReader.h",
+			"src/AddonFormat.h"
+		}
 
 	include "Bootil/projects/bootil_premake5.lua"
