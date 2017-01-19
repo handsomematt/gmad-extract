@@ -10,10 +10,12 @@ addons:
     sources:
       - ubuntu-toolchain-r-test
     packages:
+      - linux-libc-dev:i386
       - gcc-6
       - gcc-6-multilib
       - g++-6
       - g++-6-multilib
+
 install:
   - export PREMAKE5="$HOME/dependencies/premake-core/premake5";
   - export CXX=g++-6
