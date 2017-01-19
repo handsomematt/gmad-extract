@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/handsomematt/gmad-extract.svg?branch=master)](https://travis-ci.org/handsomematt/gmad-extract)
+
 ## Synopsis
 
 Very simple utility application to extract the Garry's Mod addon format also known as `GMAD`
