@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/handsomematt/gmad-extract.svg?branch=master)](https://travis-ci.org/handsomematt/gmad-extract)
+[![Build Status](https://travis-ci.org/HandsomeMatt/gmad-extract.svg?branch=master)](https://travis-ci.org/HandsomeMatt/gmad-extract)
 
 ## Synopsis
 
